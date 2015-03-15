@@ -1,0 +1,1 @@
+Some scripts for migration from Trac issue tracking system (http://trac.edgewall.com) to Jira (http://www.atlassian.com/software/jira/).
